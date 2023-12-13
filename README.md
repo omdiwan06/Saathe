@@ -10,7 +10,7 @@ This repository contains the implementation of a Citizen Complaint Management Sy
   - Automatic categorization of citizen complaints using a Transformer BERT model.
   - Priority assignment based on predefined pairs of 'avd_for' and 'type'.
 
-## Web Application (Optional)
+## Web Application
 
 The web application is built using Streamlit, providing an interface for users to submit complaints and view categorized results.
 
